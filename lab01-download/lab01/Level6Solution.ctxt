@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Level6Solution
+comment0.text=\r\n\ \ Level\ 6,\ together\ with\ its\ solution\ using\ a\ single\ Light-Bot.\r\n\r\n\ @author\ thulasiramanmt\r\n\ @version\ 2023.08.28\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ \ bot\ goes\ to\ the\ blue\ spot,\ and\ light\ turns\ on.\ Object\ is\ bob.\r\n\ \ \ \ \ \ Methods\ used\ is\ turnRight(),\ turnLeft(),\ move(),\ jump(),\ \r\n\ \ \ \ \ \ and\ turnLightOn().\r\n
+numComments=2
