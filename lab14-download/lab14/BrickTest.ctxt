@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BrickTest
+comment0.text=\r\n\ \ This\ test\ class\ test\ the\ Brick\ class\r\n\ \ Summarize\ what\ your\ test\ objectives\ are.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.12.04\r\n
+comment1.params=
+comment1.target=BrickTest()
+comment1.text=\r\n\ Creates\ a\ new\ BrickTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testBrickConstructor()
+comment3.text=\r\n\ Test\ the\ basic\ accessors\ on\ a\ brand\ new\ Brick.\r\n
+comment4.params=
+comment4.target=void\ testGetSurfaceArea()
+comment4.text=\r\n\ test\ the\ getSurfaceArea\ mehtod\r\n
+comment5.params=
+comment5.target=void\ testGetHeight()
+comment5.text=\r\n\ test\ getWeight()\r\n
+comment6.params=
+comment6.target=void\ testGetVolume()
+comment6.text=\r\n\ tests\ get\ volume()\r\n
+comment7.params=
+comment7.target=void\ getWidth()
+comment7.text=\r\n\ tests\ getWidth();\r\n
+numComments=8

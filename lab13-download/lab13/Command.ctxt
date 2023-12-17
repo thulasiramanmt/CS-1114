@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ \ Interface\ that\ implemnts\ the\ command\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.11.27\r\n
+comment1.params=
+comment1.target=void\ execute()
+comment1.text=\r\n\ An\ example\ of\ a\ method\ header\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ \r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RightCommand
+comment0.text=\r\n\ \ This\ class\ implements\ the\ "right"\ command\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.11.27\r\n
+comment1.params=jeroo
+comment1.target=RightCommand(student.micro.jeroo.Jeroo)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ RightCommand\ object.\r\n\ @param\ jeroo\ the\ Jeroo\r\n
+comment2.params=
+comment2.target=void\ execute()
+comment2.text=\r\n\ right\ turn\ when\ \r\n\ the\ "right"\ is\ called.\r\n
+numComments=3
