@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NetRemover
+comment0.text=\r\n\ \ The\ NetRemover\ class\ represents\ a\ Jeroo\ that\ is\ desgined\r\n\ \ to\ navigate\ the\ island.\ If\ it\ sees\ a\ flower\ it\ picks\ it\ up\r\n\ \ until\ all\ the\ flowers\ are\ picked\ up\r\n\ \ and\ if\ it\ sees\ a\ net,\ it\ will\ disable\ the\ net\ unttill\ all\r\n\ \ the\ nets\ are\ diabled.\ \r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.09\r\n
+comment1.params=
+comment1.target=NetRemover()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ NetRemover\ object.\r\n
+comment2.params=
+comment2.target=void\ pickFlowersAndDisableNets()
+comment2.text=\r\n\ Move\ the\ NetRemoves,pick\ flowers.\ \ \r\n\ \ \r\n\ It\ also\ disables\ nets\ that\ it\ encounters\ by\ tossing\ a\ \r\n\ flower.\ \r\n
+numComments=3

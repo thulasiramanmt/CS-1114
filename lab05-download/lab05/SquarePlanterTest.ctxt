@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SquarePlanterTest
+comment0.text=\r\n\ \ This\ test\ class\ is\ a\ class\ to\ test\ the\ SquarePlanter\ class.\ \r\n\ \ it\ checks\ if\ the\ mthods\ are\ functioning\ correctly.\ \r\n\ \ Summarize\ what\ your\ test\ objectives\ are.\r\n\ \ \r\n\ \ //\ Virginia\ Tech\ Honor\ Code\ Pledge\:\r\n//\r\n//\ As\ a\ Hokie,\ I\ will\ conduct\ myself\ with\ honor\ and\ integrity\ at\ all\ times.\r\n//\ I\ will\ not\ lie,\ cheat,\ or\ steal,\ nor\ will\ I\ accept\ the\ actions\ of\ those\r\n//\ who\ do.\r\n//\ --\ thulasiramanmt\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.09.25\r\n
+comment1.params=
+comment1.target=SquarePlanterTest()
+comment1.text=\r\n\ Creates\ a\ new\ SquarePlanterTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ testplantSquare()
+comment2.text=\r\n\ Test\ the\ plantSquare();\ method.\ \r\n\ This\ verifies\ that\ the\ methods\ plants\ a\ square.\ \r\n
+comment3.params=
+comment3.target=void\ testplantOneSide()
+comment3.text=\r\n\ Tests\ the\ plantOneSide();\ method.\ \r\n\ This\ verifies\ if\ the\ methods\ plants\ one\ side\ of\ the\ square.\ \r\n
+comment4.params=
+comment4.target=void\ setUp()
+comment4.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+numComments=5

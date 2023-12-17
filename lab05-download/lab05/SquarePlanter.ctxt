@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SquarePlanter
+comment0.text=\r\n\ \ This\ class\ extends\ planter,\ and\ has\ methods\r\n\ \ that\ is\ designed\ to\ make\ the\ jeroo\r\n\ \ plant\ in\ a\ square.\ \r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.09.25\r\n\ \ //\ Virginia\ Tech\ Honor\ Code\ Pledge\:\r\n//\r\n//\ As\ a\ Hokie,\ I\ will\ conduct\ myself\ with\ honor\ and\ integrity\ at\ all\ times.\r\n//\ I\ will\ not\ lie,\ cheat,\ or\ steal,\ nor\ will\ I\ accept\ the\ actions\ of\ those\r\n//\ who\ do.\r\n//\ --\ thulasiramanmt\r\n
+comment1.params=flowersPerSide
+comment1.target=SquarePlanter(int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ SquarePlanter\ object.\r\n\ @param\ flowersPerSide\ \r\n\ The\ number\ of\ flowers\ to\ plant\ on\ each\ side.\ \ \ \ \ \r\n
+comment2.params=
+comment2.target=void\ plantSquare()
+comment2.text=\r\n\ Plants\ flower\ in\ a\ square\ by\ making\ 4\ side\ and\ planting\ on\ each\ side.\ \r\n
+comment3.params=
+comment3.target=void\ plantOneSide()
+comment3.text=\r\n\ Plants\ flowers\ on\ one\ side\ of\ the\ square.\ \r\n
+numComments=4

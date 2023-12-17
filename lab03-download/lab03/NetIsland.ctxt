@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NetIsland
+comment0.text=\r\n\ \ The\ NetIsland\ class\ represents\ an\ island\ where\ the\ NetRemover\r\n\ \ Jeroo\ can\ perform\ a\ specific\ program.\ \r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.09\r\n
+comment1.params=
+comment1.target=NetIsland()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ NetIsland\ object.\r\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\r\n\ This\ creates\ a\ new\ NetRemover.\ Which\ starts\ at\ 3,1.\r\n
+numComments=3
