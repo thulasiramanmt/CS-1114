@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Post
+comment0.text=\r\n\ Represents\ a\ single\ post\ on\ a\ message\ sharing\ service.\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.30\r\n
+comment1.params=name\ message\ day\ hour
+comment1.target=Post(java.lang.String,\ java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Post\ object.\r\n\ @prama\ name\ String\ name\r\n\ @param\ message\ String\ message\r\n\ @param\ day\ Int\ day\r\n\ @param\ hour\ int\ hour\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ name\r\n\ @return\ name\ The\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getMessage()
+comment3.text=\r\n\ Gets\ message\r\n\ @return\ message\ The\ message\r\n
+comment4.params=
+comment4.target=int\ getDay()
+comment4.text=\r\n\ Gets\ day\ value\r\n\ @return\ day\ The\ day\ value\r\n
+comment5.params=
+comment5.target=int\ getHour()
+comment5.text=\r\n\ Gets\ the\ hour\ value\r\n\ @return\ hour\ The\ hour\ value\r\n
+numComments=6

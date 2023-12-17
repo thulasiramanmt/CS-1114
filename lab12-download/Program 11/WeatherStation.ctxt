@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=WeatherStation
+comment0.text=\r\n\ \ This\ class\ represents\ a\ weather\r\n\ \ oberservation\ station\ and\ collects\r\n\ \ basic\ statistics.\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.27.14\r\n
+comment1.params=identifier
+comment1.target=WeatherStation(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ WeatherDataProcessor\ object.\r\n\ \r\n\ @param\ identifier\ The\ ID\ for\r\n\ the\ weather\ station\r\n
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment2.text=\r\n\ Returns\ the\ ID\ for\ the\ \r\n\ weather\ station\r\n\ \r\n\ @return\ the\ ID\ for\r\n\ the\ weather\ station\r\n
+comment3.params=month\ rainfall
+comment3.target=void\ recordDailyRain(int,\ double)
+comment3.text=\r\n\ Records\ daily\ rainfall\ for\ a\ specific\ month.\r\n\ \r\n\ @param\ month\ The\ month\ of\ rainfall\ recorded\r\n\ @param\ rainfall\ The\ rainfall\ amount\ recorded\r\n
+comment4.params=month
+comment4.target=int\ getCountForMonth(int)
+comment4.text=\r\n\ Returns\ the\ count\ of\ daily\ rainfall\ of\r\n\ specific\ month.\r\n\ \r\n\ @param\ month\ The\ month\ of\ rainfall\ recorded\r\n\ @return\ The\ count\ of\ daily\ rainfall\ recorded\r\n
+comment5.params=month
+comment5.target=double\ getAvgForMonth(int)
+comment5.text=\r\n\ \ Calculates\ the\ average\ daily\ rainfall\ for\ a\ specific\ month.\r\n\ \ \r\n\ \ @param\ month\ The\ month\ of\ rainfall\ recorded\r\n\ \ \r\n\ \ @return\ The\ average\ daily\ rainfall\r\n\ \ for\ specific\ month\r\n
+comment6.params=
+comment6.target=int\ getLowestMonth()
+comment6.text=\r\n\ Returns\ the\ number\ of\ the\ month\ that\ had\ \r\n\ the\ lowest\ average\ rainfall\r\n\ recorded\r\n\ \r\n\ @return\ The\ number\ of\ the\ month\ \r\n\ with\ the\ lowest\ average\ rainfall\r\n\ \r\n
+numComments=7

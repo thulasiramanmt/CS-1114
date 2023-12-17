@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=WeatherBureau
+comment0.text=\r\n\ \ Represents\ a\ weather\ service\ that\ manages\r\n\ \ and\ keeps\ track\ of\ weather\r\n\ \ station\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.11.14\r\n
+comment1.params=
+comment1.target=WeatherBureau()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ WeatherBureau\ object.\r\n
+comment2.params=
+comment2.target=java.util.Map\ getWeatherStations()
+comment2.text=\r\n\ Returns\ the\ WeatherStation\ map\r\n\ @return\ Map\ WeatherStation\r\n
+comment3.params=text
+comment3.target=void\ recordDailySummary(java.lang.String)
+comment3.text=\r\n\ Records\ a\ single\ one-line\ daily\ weatehr\ summary\r\n\ for\ one\ day\ at\ one\ weather\ station\r\n\ \r\n\ @param\ text\ The\ text\ representing\ \r\n\ a\ one-line\ daily\ weather\r\n\ \r\n
+comment4.params=input
+comment4.target=void\ recordDailySummaries(java.util.Scanner)
+comment4.text=\r\n\ Retrieves\ the\ WeatherStation\ object\ for\ a\ given\ identifier.\r\n\ \r\n\ @param\ input\ The\ identifier\ of\ the\ weather\ station.\r\n
+comment5.params=stationID
+comment5.target=WeatherStation\ getStation(java.lang.String)
+comment5.text=\r\n\ Retrieves\ the\ WeatherStation\ object\ for\ a\ given\r\n\ weather\ station\ identifier\r\n\ \r\n\ @param\ stationID\ The\ ID\r\n\ @return\ the\ weather\ station\ object\r\n\ for\ the\ ID\ given\r\n
+comment6.params=month
+comment6.target=WeatherStation\ lowestStation(int)
+comment6.text=\r\n\ Returns\ the\ weather\ station\ with\ the\ \r\n\ lowest\ average\ rainfall\ for\ the\ specified\ month.\r\n\ \r\n\ @param\ month\ The\ month\ of\ rainfall\ recorded\r\n\ \r\n\ @return\ The\ WeatherStation\ \r\n\ object\ with\ the\ lowest\ average\ rainfall\ \r\n
+comment7.params=
+comment7.target=WeatherStation\ lowestStation()
+comment7.text=\r\n\ Returns\ the\ weather\ station\ with\ the\ lowest\ \r\n\ average\ rainfall\ recorded\ for\ any\ month\ (1-12).\r\n\ \r\n\ @return\ The\ WeatherStation\ object\ \r\n\ with\ the\ lowest\ average\ rainfall\ overall\r\n
+numComments=8
