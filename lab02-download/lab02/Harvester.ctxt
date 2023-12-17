@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Harvester
+comment0.text=\r\n\ \ The\ class\ is\ called\ Harvester.\ The\ methods\ used\ in\ this\ class\ is\ to\r\n\ \ hop\ and\ pick.\ \r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.09.02\r\n
+comment1.params=
+comment1.target=Harvester()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Harvester\ object.\r\n
+comment2.params=
+comment2.target=void\ hopAndPick()
+comment2.text=\r\n\ One\ hop\ and\ one\ pick\ flower.\ \r\n
+comment3.params=
+comment3.target=void\ hop2AndPick()
+comment3.text=\r\n\ Using\ hopAndPick\ twice\r\n
+comment4.params=
+comment4.target=void\ harvestRow()
+comment4.text=\r\n\ Using\ the\ hopAndPick\ methos\ three\ times\r\n
+numComments=5

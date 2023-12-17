@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lab02Solution
+comment0.text=\r\n\ \ The\ class\ is\ Lab02Solutions.\ Which\ is\ a\ constructor\ for\ various\ harvester\r\n\ \ objects,\ harvestRow\ object,\ SkippingHarvester\ object\ and\ Planting\r\n\ \ Harvester.\ \r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.09.02\r\n
+comment1.params=
+comment1.target=Lab02Solution()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Lab02Solution\ object.\r\n
+comment2.params=
+comment2.target=void\ myProgram()
+comment2.text=\r\n\ My\ program().\r\n
+numComments=3

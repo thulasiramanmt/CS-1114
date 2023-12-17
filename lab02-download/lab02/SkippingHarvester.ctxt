@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=SkippingHarvester
+comment0.text=\r\n\ \ This\ subclass\ is\ called\ SkippingHarvester.\ The\ method\ used\ in\ this\ class\r\n\ \ is\ to\ hopAndPick,\ and\ then\ add\ a\ hop.\ \r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.09.02\r\n
+comment1.params=
+comment1.target=SkippingHarvester()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ SkippingHarvester\ object.\r\n
+comment2.params=
+comment2.target=void\ hop2AndPick()
+comment2.text=\r\n\ Using\ the\ hopeAndPick\ method\ and\ added\ another\ hop\r\n
+numComments=3

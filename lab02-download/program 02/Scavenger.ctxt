@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Scavenger
+comment0.text=\r\n\ \ The\ Scavenger\ represents\ a\ Jeroo\ that\ is\ designed\ to\ move\r\n\ \ arround\ the\ island,collecting\ flowers\ based\ on\ a\ \r\n\ \ set\ of\ predefined\ methods.\r\n\ \ \r\n\ \ This\ class\ extends\ the\ Jeroo\ class\ and\ provdies\ methods\r\n\ \ collecting\ flowers\ in\ a\ specific\ order.\ \r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.09.11\r\n
+comment1.params=
+comment1.target=Scavenger()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Scavenger\ object.\r\n
+comment2.params=
+comment2.target=void\ collectFlowers()
+comment2.text=\r\n\ This\ methos\ is\ used\ to\ call\ other\ methods\ to\ collect\ \r\n\ all\ the\ flowers.\ \r\n
+numComments=3

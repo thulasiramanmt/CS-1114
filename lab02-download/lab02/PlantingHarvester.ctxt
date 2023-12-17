@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PlantingHarvester
+comment0.text=\r\n\ \ This\ class\ is\ called\ PlantingHarvester.\ The\ method\ in\ this\ class\ is\ for\ \r\n\ \ plant.\ \r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.09.02\r\n
+comment1.params=
+comment1.target=PlantingHarvester()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ PlantingHarvester\ object.\r\n
+comment2.params=
+comment2.target=void\ hop2AndPick()
+comment2.text=\r\n\ Using\ supper\ to\ call\ the\ parent\ then\ usingn\ the\ hopAndPick\ method\r\n\ \ \ \ \ \ \ \ and\ the\ adding\ a\ hop\ and\ plant\r\n
+numComments=3
