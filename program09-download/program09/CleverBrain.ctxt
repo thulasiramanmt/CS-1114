@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CleverBrain
+comment0.text=\r\n\ \ This\ class\ represents\ the\ Clever\ Brain\ AI,\r\n\ \ for\ the\ game\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.31\r\n
+comment1.params=
+comment1.target=CleverBrain()
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ CleverBain\ object.\r\n
+comment2.params=board
+comment2.target=double\ rateBoard(student.tetris.Board)
+comment2.text=\r\n\ Reads\ the\ board\r\n\ @param\ board\ The\ board\r\n\ @return\ results\ the\ Value.\r\n
+comment3.params=board\ piece\ heightLimit
+comment3.target=student.tetris.Move\ bestMove(student.tetris.Board,\ student.tetris.Piece,\ int)
+comment3.text=\r\n\ makes\ the\ moves\r\n\ @param\ board\ The\ board\r\n\ @param\ piece\ The\ piece\r\n\ @param\ heightLimit\ \r\n\ the\ HeightLimit\r\n\ @return\ bestMove\ the\ bestMove\r\n
+comment4.params=board\ column
+comment4.target=double\ rateColumn(student.tetris.Board,\ int)
+comment4.text=\r\n\ Gets\ the\ height\ of\ all\ the\ column.\ \r\n\ @param\ board\ The\ board\r\n\ @param\ column\ Number\ of\ column\r\n\ @return\ rating\r\n
+comment5.params=board\ row
+comment5.target=double\ rateRow(student.tetris.Board,\ int)
+comment5.text=\r\n\ Gets\ the\ height\ of\ the\ rows\r\n\ @param\ board\ The\ board\r\n\ @param\ row\ the\ number\ of\ row\r\n\ @return\ rating\r\n
+numComments=6
