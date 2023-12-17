@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameElement
+comment0.text=\r\n\ \ The\ GameElement\ interface\ represents\ \r\n\ \ objects\ in\ a\ game\ with\ a\ name\ and\ point\ cost.\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.17\r\n\ \ \r\n\ \ //\ Virginia\ Tech\ Honor\ Code\ Pledge\:\r\n//\r\n//\ As\ a\ Hokie,\ I\ will\ conduct\ myself\ with\ honor\ and\ integrity\ at\ all\ times.\r\n//\ I\ will\ not\ lie,\ cheat,\ or\ steal,\ nor\ will\ I\ accept\ the\ actions\ of\ those\r\n//\ who\ do.\r\n//\ --\ Your\ Name\ (pid)\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Get\ this\ GameElement's\ name.\r\n\r\n\ @return\ This\ object's\ name\ as\ a\ string.\r\n
+comment2.params=
+comment2.target=int\ getPoints()
+comment2.text=\r\n\ Get\ this\ GameElement's\ cost\ in\ points.\r\n\r\n\ @return\ The\ number\ of\ points\ for\ this\ object.\r\n
+numComments=3

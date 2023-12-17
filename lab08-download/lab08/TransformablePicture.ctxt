@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TransformablePicture
+comment0.text=\r\n\ \ A\ picture\ that\ supports\ basic\ color\ transformations\ for\ Lab\ 08.\r\n\r\n\ \ @author\ thulasiramanmt\ \ \r\n\ \ @version\ 2023.10.16\r\n\ \ \r\n\ \ \r\n\ \ //\ Virginia\ Tech\ Honor\ Code\ Pledge\:\r\n//\r\n//\ As\ a\ Hokie,\ I\ will\ conduct\ myself\ with\ honor\ and\ integrity\ at\ all\ times.\r\n//\ I\ will\ not\ lie,\ cheat,\ or\ steal,\ nor\ will\ I\ accept\ the\ actions\ of\ those\r\n//\ who\ do.\r\n//\ --\ thulasiramanmt\r\n
+comment1.params=original
+comment1.target=TransformablePicture(student.media.Picture)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ TransformablePicture\ object\ as\ a\ copy\r\n\ of\ another\ image.\r\n\ \r\n\ @param\ original\ picture\r\n
+comment2.params=rate
+comment2.target=void\ radialShadow(int)
+comment2.text=\r\n\ Adds\ a\ radial\ shadow\ that\ gets\ darker\ the\ farther\ a\ pixel\ is\ from\r\n\ the\ upper\ left\ corner.\r\n\ \r\n\ @param\ rate\ The\ speed\ at\ which\ the\ shadow\ gets\ darker,\ where\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ a\ larger\ number\ produces\ a\ more\ gradual\ shadow\r\n
+comment3.params=pixel\ amount
+comment3.target=void\ adjustPixel(student.media.Pixel,\ int)
+comment3.text=\r\n\ Adjusts\ the\ RGB\ color\ components\ of\ a\ pixel\ by\ \r\n\ adding\ an\ amount\ to\ each\ component.\r\n\ \r\n\ @param\ pixel\ \ The\ Pixel\ object\ to\ adjust.\r\n\ @param\ amount\ The\ value\ to\ add\ to\ each\ color\ component.\r\n
+comment4.params=rate
+comment4.target=void\ radialGlow(int)
+comment4.text=\r\n\ Adjusts\ pixel\ colors\ based\ on\ their\ \r\n\ distance\ from\ the\ image\ edges.\r\n\ \r\n\ \r\n\ @param\ rate\ The\ rate\ of\ color\ adjustment.\r\n
+comment5.params=rate
+comment5.target=void\ colorShift(int)
+comment5.text=\r\n\ Shifts\ pixel\ colors\ based\ \r\n\ on\ their\ distance\ from\ image\ edges.\r\n\ \r\n\ @param\ rate\ The\ rate\ of\ color\ adjustment.\r\n\ \r\n
+numComments=6

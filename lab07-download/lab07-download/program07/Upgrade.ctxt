@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Upgrade
+comment0.text=\r\n\ \ The\ `Upgrade`\ class\ represents\ game\ upgrades\ with\ a\ name\ and\ point\ cost.\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.24\r\n
+comment1.params=name\ points
+comment1.target=Upgrade(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Upgrade\ object.\r\n\ @param\ name\ The\ name\ (and\ description)\ of\ the\ upgrade.\r\n\ @param\ points\ The\ point\ value\ of\ the\ upgrade.\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Gets\ the\ name\ of\ the\ upgrade.\r\n\r\n\ @return\ The\ name\ of\ the\ upgrade\ as\ a\ string.\r\n
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ name\ of\ the\ upgrade.\r\n\r\n\ @param\ name\ The\ new\ name\ for\ the\ upgrade.\r\n
+comment4.params=
+comment4.target=int\ getPoints()
+comment4.text=\r\n\ Gets\ the\ point\ cost\ of\ the\ upgrade.\r\n\r\n\ @return\ The\ point\ cost\ of\ the\ upgrade\ as\ an\ integer.\r\n
+comment5.params=points
+comment5.target=void\ setPoints(int)
+comment5.text=\r\n\ Sets\ the\ point\ cost\ of\ the\ upgrade.\r\n\r\n\ @param\ points\ The\ new\ point\ cost\ for\ the\ upgrade.\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ \r\n
+numComments=7

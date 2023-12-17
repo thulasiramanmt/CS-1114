@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HeroTest
+comment0.text=\r\n\ \ The\ HeroTest\ class\ is\ a\ test\ class\ for\ the\ Hero\r\n\ \ class,\ focusing\ on\ testing\ the\ constructor\ \r\n\ \ and\ inherited\ attributes.\r\n\ \ Summarize\ what\ your\ test\ objectives\ are.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.17\r\n
+comment1.params=
+comment1.target=HeroTest()
+comment1.text=\r\n\ Creates\ a\ new\ HeroTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testHero()
+comment3.text=\r\n\ Test\ method\ for\ the\ Hero\ class.\r\n
+numComments=4

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Squad
+comment0.text=\r\n\ \ Represents\ a\ squad\ of\ units\ with\ enhanced\ attributes,\r\n\ \ providing\ the\ ability\ to\ manage\ \r\n\ \ and\ manipulate\ a\ group\ of\ units.\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.24\r\n
+comment1.params=name
+comment1.target=Squad(java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Squad\ object.\r\n\ @param\ name\ the\ name\ of\ the\ squad\r\n
+comment2.params=
+comment2.target=java.util.List\ getUnits()
+comment2.text=\r\n\ Get\ the\ list\ of\ units\ in\ the\ squad.\r\n\ @return\ unit\r\n
+comment3.params=unit
+comment3.target=void\ addUnit(Unit)
+comment3.text=\r\n\ Add\ a\ unit\ to\ the\ squad.\r\n\ @param\ unit\ The\ unit\ to\ be\ added.\ \r\n
+comment4.params=unit
+comment4.target=void\ removeUnit(Unit)
+comment4.text=\r\n\ Remove\ a\ unit\ from\ the\ squad.\r\n\ @param\ unit\ The\ unit\ to\ be\ removes\r\n
+comment5.params=
+comment5.target=int\ getPoints()
+comment5.text=\r\n\ Calculate\ and\ return\ the\ total\ points\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ string\ representatoin\ of\ the\ squad.\ \r\n
+numComments=7

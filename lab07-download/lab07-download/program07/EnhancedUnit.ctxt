@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EnhancedUnit
+comment0.text=\r\n\ \ The\ EnhancedUnit\ class\ represents\ \r\n\ \ game\ units\ with\ additional\ special\ rules\ \r\n\ \ or\ abilities,\ extending\ the\ base\ Unit\ class.\r\n\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.24\r\n
+comment1.params=name\ points
+comment1.target=EnhancedUnit(java.lang.String,\ int)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ EnhancedUnit\ \r\n\ object\ with\ the\ provided\ name\ \r\n\ and\ points,\ and\ sets\ the\ specialRule\ to\ null.\r\n\r\n\ @param\ name\ The\ name\ of\ the\ enhanced\ unit.\r\n\ @param\ points\ The\ point\ value\ of\ the\ enhanced\ unit.\r\n
+comment2.params=
+comment2.target=EnhancedUnit()
+comment2.text=\r\n\ Initializes\ a\ newly\ created\ EnhancedUnit\ object.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSpecialRule()
+comment3.text=\r\n\ Gets\ the\ special\ rule\ of\ the\ enhanced\ unit.\r\n\ \r\n\ @return\ specialRule\r\n\ \r\n
+comment4.params=specialRule
+comment4.target=void\ setSpecialRule(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ special\ rule\r\n\ \r\n\ @param\ specialRule\ The\ rule\ to\ set.\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString\ method\r\n
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CopyingJerooTest
+comment0.text=\r\n\ \ This\ test\ class\ test\ the\ Copying\ jerro\ Tests.\ \r\n\ \ Summarize\ what\ your\ test\ objectives\ are.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.09\r\n
+comment1.params=
+comment1.target=CopyingJerooTest()
+comment1.text=\r\n\ Creates\ a\ new\ CopyingJerooTest\ test\ object.\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testHopToWater()
+comment3.text=\r\n\ Check\ hopToWater(),\ assuming\ that\ setUp()\ places\ the\r\n\ jeroo\ at\ (1,\ 1)\ facing\ east.\r\n
+comment4.params=
+comment4.target=void\ testFacingWEST()
+comment4.text=\r\n\ Check\ facingTurn(),\ assuming\ that\ setUp()\ places\ the\r\n\ jeroo\ at\ (1,\ 1)\ facing\ east.\r\n
+comment5.params=
+comment5.target=void\ testWalkIsland()
+comment5.text=\r\n\ Check\ walksIsland(),\ assuming\ that\ setUp()\ places\ the\r\n\ jeroo\ at\ (1,\ 1)\ facing\ east.\r\n
+comment6.params=
+comment6.target=void\ testWalkIsland2()
+comment6.text=\r\n\ Check\ walksIsland(),\ assuming\ that\ setUp()\ places\ the\r\n\ jeroo\ at\ (1,\ 1)\ facing\ east\r\n
+numComments=7

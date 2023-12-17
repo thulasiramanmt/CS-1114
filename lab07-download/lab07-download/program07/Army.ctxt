@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Army
+comment0.text=\r\n\ \ The\ Army\ class\ represents\ a\ player's\ army,\r\n\ \ with\ information\ about\ the\ player,\ faction,\ and\ army\ name.\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.24\r\n
+comment1.params=armyName\ armyFaction\ playerName
+comment1.target=Army(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ Army\ object.\r\n\ @param\ armyName\ the\ name\ of\ the\ army.\ \r\n\ @param\ armyFaction\ the\ name\ of\ the\ faction.\ \r\n\ @param\ playerName\ the\ name\ of\ the\ player.\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getPlayerName()
+comment2.text=\r\n\ get\ player\ name\r\n\ @return\ playerName\r\n
+comment3.params=playerName
+comment3.target=void\ setPlayerName(java.lang.String)
+comment3.text=\r\n\ set\ player\ name\r\n\ @param\ playerName\ name\ of\ the\ player\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFaction()
+comment4.text=\r\n\ get\ faction\r\n\ @return\ faction\r\n
+comment5.params=faction
+comment5.target=void\ setFaction(java.lang.String)
+comment5.text=\r\n\ set\ faction\r\n\ @param\ faction\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ convert\ to\ string.\ \r\n
+numComments=7

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\r\n\ \ The\ Monster\ class\ is\ a\ subclass\ of\ \r\n\ \ EnhancedUnit,\ representing\ \r\n\ \ formidable\ game\ units\ with\ enhanced\ attributes\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.17\r\n
+comment1.params=name\ points
+comment1.target=Monster(java.lang.String,\ int)
+comment1.text=\r\n\ It\ initializes\ monsters\ with\ moderate\ quality\ and\ defense.\r\n\ \ @param\ name\ The\ name\ of\ the\ monster.\r\n\ @param\ points\ The\ point\ value\ of\ the\ monster.\r\n
+numComments=2

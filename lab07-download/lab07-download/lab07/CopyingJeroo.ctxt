@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CopyingJeroo
+comment0.text=\r\n\ \ A\ Jeroo\ that\ walks\ every\ cell\ in\ on\ an\ island\ and\ uses\ delegation\r\n\ \ to\ instruct\ a\ second\ jeroo\ to\ follow\ its\ motions\ and\ plant\ a\ flower\r\n\ \ anywhere\ it\ finds\ one.\r\n\r\n\ \ @author\ Stephen\ Edwards\r\n\ \ @version\ 2021.10.03\r\n
+comment1.params=copier
+comment1.target=CopyingJeroo(student.micro.jeroo.Jeroo)
+comment1.text=\r\n\ Initializes\ a\ newly\ created\ CopyingJeroo\ object.\r\n\ \r\n\ @param\ copier\ the\ Jerro\ to\ copy.\ \r\n
+comment2.params=
+comment2.target=void\ hop()
+comment2.text=\r\nOverrides\ the\ hop\ method.\r\n
+comment3.params=dir
+comment3.target=void\ turn(student.micro.jeroo.RelativeDirection)
+comment3.text=\r\n\ Overrides\ the\ turn\ method.\r\n
+comment4.params=
+comment4.target=void\ walkIsland()
+comment4.text=\r\n\ Walk\ a\ pattern\ over\ every\ grid\ location\ on\ the\ current\ island.\r\n
+comment5.params=
+comment5.target=void\ hopToWater()
+comment5.text=\r\n\ Hop\ forward\ until\ we\ reach\ the\ water.\r\n
+comment6.params=
+comment6.target=void\ facingTurn()
+comment6.text=\r\n\ Turns,\ then\ hops\ and\ turns\ again,\ to\ deal\r\n\ with\ corners.\r\n
+numComments=7

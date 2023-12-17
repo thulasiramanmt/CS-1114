@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hero
+comment0.text=\r\n\ \ The\ `Hero`\ class\ is\ a\ subclass\ of\ EnhancedUnit,\ \r\n\ \ representing\ powerful\ game\ units\ with\ enhanced\ attributes.\r\n\ \ Follow\ it\ with\ additional\ details\ about\ its\ purpose,\ what\ abstraction\r\n\ \ it\ represents,\ and\ how\ to\ use\ it.\r\n\r\n\ \ @author\ thulasiramanmt\r\n\ \ @version\ 2023.10.17\r\n
+comment1.params=name\ points
+comment1.target=Hero(java.lang.String,\ int)
+comment1.text=\r\n\ The\ Hero\ class\ is\ a\ subclass\ of\ \r\n\ EnhancedUnit,\ representing\ \r\n\ powerful\ game\ units\ with\ enhanced\ attributes.\r\n\ \r\n\ @param\ name\ The\ name\ of\ the\ hero.\r\n\ @param\ points\ The\ point\ value\ of\ the\ hero.\r\n
+numComments=2
